@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SimpleServer5.aternos.me
-Con",
+    "ip": "SimpleServer5.aternos.me",
     "port": 38469,
     "version": "",
     "try-creative": false

@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SimpleServer5.aternos.me",
-    "port": 38469,
+    "ip": "Simarkbayo.aternos.me:13321",
+    "port": 13321,
     "version": "",
     "try-creative": false
   },

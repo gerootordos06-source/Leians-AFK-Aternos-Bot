@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Simarkbayo.aternos.me:13321",
+    "ip": "Simarkbayo.aternos.me",
     "port": 13321,
     "version": "",
     "try-creative": false
